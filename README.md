@@ -1,3 +1,5 @@
-contém logo e estágios representando o número de vidas do usuário
+hangman_art.py:
 
-Esse arquivo serve apenas para armazenar essas informações
+  contém logo e estágios representando o número de vidas do usuário
+
+  Esse arquivo serve apenas para armazenar essas informações
