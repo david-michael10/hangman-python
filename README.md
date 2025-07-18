@@ -5,6 +5,9 @@ hangman_art.py:
    ♦ Esse arquivo serve apenas para armazenar essas informações
 
 
+
+
+
 hangman_words.py:
 
    ♦ Contém uma lista aleatória de palavras 
